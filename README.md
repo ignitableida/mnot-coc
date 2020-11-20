@@ -13,6 +13,7 @@
 1. Nieuwe leden die een mijlpaal halen (bijv. 1000e member) behouden hun mijlpaal. Ook als er tussentijds iemand vertrekt waardoor het ledenaantal onder de mijlpaal zakt. De 'nieuwe' 1000e member krijgt dus geen feestje.
 1. Het aanmaken van openbare kanalen kan enkel door admins gedaan worden. Dit gebeurt echter uitsluitend na een democratische stemronde om te bekijken of er voldoende animo voor is. De stem van een admin geldt hierbij niet als voorkeursstem.
 1. 'Pre-rants' worden niet gewaardeerd. Dat bezorger x een pakketje gaat leveren is nog geen rant.
+1. Elkaar een goedemorgen wensen na 12:00 uur (CET/CEST) is onwenselijk!
 
 ## Discord specifiek
 1. [Voice channels] Schreeuw niet en maak geen harde of vervelende geluiden. Je weet nooit hoe hard het volume 'aan de andere kant' staat.
